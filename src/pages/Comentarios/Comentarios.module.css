@@ -1,0 +1,45 @@
+.comh{
+    text-align: center;
+    color: var(--primary);
+    background: var(terceary);
+    
+}
+.tcom{
+    font-size: 25px;
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 50px;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    
+}
+
+.combox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    
+
+}
+.combox input{
+    width: 70%;
+    padding: 60px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-size: medium;
+    background-color:rgba(204, 204, 204, 0.902);
+    
+
+}
+.combutton{
+    width: 250px;
+    padding: 10px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background-color: var(gray2);
+    color: black;
+    font-size: 20px;
+}
+
